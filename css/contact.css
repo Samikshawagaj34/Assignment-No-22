@@ -1,0 +1,23 @@
+.contact-img
+{
+    width: 1200px;
+    height: 250px;
+  
+}
+.parent-contact
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.child-contact
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+}

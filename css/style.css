@@ -1,0 +1,18 @@
+
+body
+{
+    background-color:#eff0f3;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.page-heading
+{
+    color:#0d0d0d;
+}
+.page-container
+{
+    text-align: center;
+    margin: 10px;
+}
