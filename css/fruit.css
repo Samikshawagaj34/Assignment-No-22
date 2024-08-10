@@ -1,0 +1,67 @@
+
+        .parent{
+            display: flex;
+            flex-direction: row;
+            margin: 30px;
+            justify-content: space-evenly;
+
+            
+        }
+        .child{
+            border: double #020826;
+            width: 300px;
+            height: 400px;
+            background-color: #eff0f3;
+            border-radius: 10px;
+         
+
+        }
+        .child:hover{
+            box-shadow: 1px 1px 5px 5px #eff0f3;
+        }
+        .img{
+            height: 200px;
+            height: 200px;
+            margin-left: 15px;
+          border-radius: 10px ;
+          margin-top: 10px;
+           
+       
+            
+        }
+        .btn{
+          background-color: #ff8e3c;
+          color: #0d0d0d;
+          margin-left: 50px;
+          height: 30px;
+          width: 100px;
+          border-radius: 5px;
+         
+        }
+        .h2{
+            margin-left: 5px;
+        }
+        p{
+            margin-left: 10px;
+        }
+
+        .img3
+        {
+            height: 200px;
+            width: 260px;
+            margin-left: 15px;
+            border-radius: 10px ;
+            margin-top: 10px;
+            
+
+            
+
+        }
+        .img4
+        {
+            height: 200px;
+            width: 260px;
+            margin-left: 15px;
+            border-radius: 10px ;
+            margin-top: 10px;
+        }

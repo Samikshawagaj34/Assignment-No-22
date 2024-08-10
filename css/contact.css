@@ -1,7 +1,11 @@
+.body
+{
+    background-color: #eff0f3;
+}
 .contact-img
 {
-    width: 1200px;
-    height: 250px;
+    width: 1500px;
+    height: 550px;
   
 }
 .parent-contact
@@ -20,4 +24,86 @@
     align-items: center;
 
 
+}
+.social-icon
+{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+
+
+
+}
+.parent
+{
+    background-color: #004d39;
+    padding: 20px;
+   
+   
+
+
+}
+.child
+{
+    margin-left: 380px;
+    margin-top: 30px;
+   
+   
+}
+.why-choose-ahref
+{
+    padding: 50px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    
+}
+.why-choose-input
+{
+    border-radius: 5%;
+}
+.contact-child2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #eff0f3;
+    margin-top: 30px;
+    margin-left: 380px;
+    margin-right: 380px;
+    border-radius: 10px;
+
+}
+.parent-contact2
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #eff0f3;
+    margin-top: 30px;
+    margin-left: 380px;
+    margin-right: 380px;
+    border-radius: 10px;
+    
+   
+    
+    
+}
+.contact-icon
+{
+   
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 40px;
+    height: 40px;
 }
